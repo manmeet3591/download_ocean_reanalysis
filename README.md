@@ -8,3 +8,6 @@ username: msingh7
 
 password: Copernicus@2025
 
+2. https://podaac.jpl.nasa.gov/dataset/ECCO_L4_TEMP_SALINITY_05DEG_DAILY_V4R4#
+
+3. 
